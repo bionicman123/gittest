@@ -8,7 +8,7 @@ public class GitTest {
 	
 	public static void main(String[] args)
 	{
-		System.out.println("Gittest by bionicman123");
+		System.out.println("Gittest by bionicman123 ver 2");
 	}
 
 }
